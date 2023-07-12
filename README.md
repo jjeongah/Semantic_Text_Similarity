@@ -6,8 +6,6 @@ Semantic Text Similarity (STS) is an NLP task that measures the similarity betwe
 
 In this project, we aim to build an AI model that takes two sentences as input and measures how semantically similar they are on a scale of 0 to 5.
 
-#### [Wrap up report](https://www.notion.so/STS-d6489847c32c41bc9737b7fc82639eb8?pvs=4)
-
 <br/>
 
 ## Dataset 
